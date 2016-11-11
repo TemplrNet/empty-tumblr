@@ -7,6 +7,8 @@ You can use this theme for instance if:
 * you want to reserve Tumblr URL for future content or
 * you are not intending to display any posts to your audience at all.
 
+Please note, that you are still able to share your content with other users of Tumbler after they have signed in to Tumblr, but accessing the blog with URL yourblogname.tumblr.com is not possible.
+
 ## Supported features
 
 Empty Tumblr Theme supports the following features:
@@ -19,6 +21,8 @@ Empty Tumblr Theme supports the following features:
 Besides the above, the theme has responsive design, suitable for all devices your audience may use and does not have any static content. All necessary additions are loaded through Content Delivery Network.
 
 ## Download for free
+
+Tumblr Empty Theme is ready for download:
 https://github.com/TemplrNet/empty-tumblr-theme/empty-tumblr-theme.html
 
 ## Support and updates
