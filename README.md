@@ -15,6 +15,7 @@ Empty Tumblr Theme supports the following features:
 * Custom color scheme (background color, title color and accent color)
 * Custom avatar
 * Custom fonts for heading and body
+* Custom CSS
 * Link to your main website
 * Link to your Twitter account
 
