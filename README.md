@@ -23,6 +23,7 @@ Besides the above, the theme has responsive design, suitable for all devices you
 ## Download for free
 
 Tumblr Empty Theme is ready for download:
+
 https://github.com/TemplrNet/empty-tumblr-theme/empty-tumblr-theme.html
 
 ## Support and updates
